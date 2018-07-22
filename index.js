@@ -23,5 +23,5 @@ return n -= 1
 }
 
 function makeInt(n){
-return n -= 1
+parseInt('2.2222', 10)
 }
